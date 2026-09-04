@@ -1,0 +1,27 @@
+{
+  "n_profiles": 1000,
+  "resolution": {
+    "nr": 64,
+    "nt": 100,
+    "t_max": 1.5
+  },
+  "seed": 20260902,
+  "counts": {
+    "Trivial": 388,
+    "Fragmented": 90,
+    "WeakMerger": 23,
+    "StrongMerger": 499
+  },
+  "fractions": {
+    "Trivial": 0.388,
+    "Fragmented": 0.09,
+    "WeakMerger": 0.023,
+    "StrongMerger": 0.499
+  },
+  "frac_profiles_with_strong_scs": 0.612,
+  "frac_profiles_with_any_merger": 0.522,
+  "frac_profiles_with_strong_merger": 0.499,
+  "mean_entropy": 0.630722131426302,
+  "max_entropy": 1.940151408583456,
+  "corr_entropy_vs_n_scs_strong": 0.017423306530441156
+}

@@ -1,0 +1,315 @@
+{
+  "n_sigma_values": 30,
+  "n_per_sigma": 50,
+  "n_total_profiles": 1500,
+  "resolution": {
+    "nr": 64,
+    "nt": 100,
+    "t_max": 1.5
+  },
+  "seed": 20260902,
+  "sigma_crit_estimate": 0.03053187042842215,
+  "sigma_reconnect_estimate": 0.1838999084528532,
+  "aggregate": [
+    {
+      "sigma": 0.01,
+      "n_samples": 50,
+      "mean_diameter": 0.0,
+      "mean_f_lcc": 0.8966666666666666,
+      "frac_fully_connected": 0.82,
+      "mean_n_branches": 1.26,
+      "mean_n_scs_strong": 0.08,
+      "frac_at_least_one_strong_scs": 0.08
+    },
+    {
+      "sigma": 0.026896551724137928,
+      "n_samples": 50,
+      "mean_diameter": 0.02,
+      "mean_f_lcc": 0.7473333333333333,
+      "frac_fully_connected": 0.58,
+      "mean_n_branches": 1.74,
+      "mean_n_scs_strong": 0.08,
+      "frac_at_least_one_strong_scs": 0.06
+    },
+    {
+      "sigma": 0.04379310344827586,
+      "n_samples": 50,
+      "mean_diameter": 0.04,
+      "mean_f_lcc": 0.5273333333333333,
+      "frac_fully_connected": 0.26,
+      "mean_n_branches": 2.62,
+      "mean_n_scs_strong": 0.14,
+      "frac_at_least_one_strong_scs": 0.06
+    },
+    {
+      "sigma": 0.060689655172413794,
+      "n_samples": 50,
+      "mean_diameter": 0.2,
+      "mean_f_lcc": 0.6066666666666666,
+      "frac_fully_connected": 0.3,
+      "mean_n_branches": 2.38,
+      "mean_n_scs_strong": 0.7,
+      "frac_at_least_one_strong_scs": 0.28
+    },
+    {
+      "sigma": 0.07758620689655171,
+      "n_samples": 50,
+      "mean_diameter": 0.28,
+      "mean_f_lcc": 0.645,
+      "frac_fully_connected": 0.36,
+      "mean_n_branches": 2.22,
+      "mean_n_scs_strong": 0.9,
+      "frac_at_least_one_strong_scs": 0.36
+    },
+    {
+      "sigma": 0.09448275862068964,
+      "n_samples": 50,
+      "mean_diameter": 0.16,
+      "mean_f_lcc": 0.528,
+      "frac_fully_connected": 0.22,
+      "mean_n_branches": 2.62,
+      "mean_n_scs_strong": 0.54,
+      "frac_at_least_one_strong_scs": 0.2
+    },
+    {
+      "sigma": 0.11137931034482758,
+      "n_samples": 50,
+      "mean_diameter": 0.34,
+      "mean_f_lcc": 0.588,
+      "frac_fully_connected": 0.26,
+      "mean_n_branches": 2.58,
+      "mean_n_scs_strong": 1.0,
+      "frac_at_least_one_strong_scs": 0.36
+    },
+    {
+      "sigma": 0.12827586206896552,
+      "n_samples": 50,
+      "mean_diameter": 0.54,
+      "mean_f_lcc": 0.6813333333333332,
+      "frac_fully_connected": 0.38,
+      "mean_n_branches": 2.52,
+      "mean_n_scs_strong": 2.1,
+      "frac_at_least_one_strong_scs": 0.56
+    },
+    {
+      "sigma": 0.14517241379310344,
+      "n_samples": 50,
+      "mean_diameter": 0.64,
+      "mean_f_lcc": 0.687,
+      "frac_fully_connected": 0.38,
+      "mean_n_branches": 2.58,
+      "mean_n_scs_strong": 2.0,
+      "frac_at_least_one_strong_scs": 0.62
+    },
+    {
+      "sigma": 0.16206896551724137,
+      "n_samples": 50,
+      "mean_diameter": 0.66,
+      "mean_f_lcc": 0.6746666666666666,
+      "frac_fully_connected": 0.4,
+      "mean_n_branches": 2.84,
+      "mean_n_scs_strong": 2.16,
+      "frac_at_least_one_strong_scs": 0.6
+    },
+    {
+      "sigma": 0.1789655172413793,
+      "n_samples": 50,
+      "mean_diameter": 0.74,
+      "mean_f_lcc": 0.6779999999999999,
+      "frac_fully_connected": 0.34,
+      "mean_n_branches": 2.78,
+      "mean_n_scs_strong": 2.56,
+      "frac_at_least_one_strong_scs": 0.64
+    },
+    {
+      "sigma": 0.19586206896551722,
+      "n_samples": 50,
+      "mean_diameter": 0.92,
+      "mean_f_lcc": 0.7533333333333333,
+      "frac_fully_connected": 0.5,
+      "mean_n_branches": 2.78,
+      "mean_n_scs_strong": 3.04,
+      "frac_at_least_one_strong_scs": 0.76
+    },
+    {
+      "sigma": 0.21275862068965518,
+      "n_samples": 50,
+      "mean_diameter": 0.9,
+      "mean_f_lcc": 0.7416666666666666,
+      "frac_fully_connected": 0.44,
+      "mean_n_branches": 2.88,
+      "mean_n_scs_strong": 3.38,
+      "frac_at_least_one_strong_scs": 0.88
+    },
+    {
+      "sigma": 0.2296551724137931,
+      "n_samples": 50,
+      "mean_diameter": 0.96,
+      "mean_f_lcc": 0.77,
+      "frac_fully_connected": 0.52,
+      "mean_n_branches": 2.66,
+      "mean_n_scs_strong": 3.54,
+      "frac_at_least_one_strong_scs": 0.74
+    },
+    {
+      "sigma": 0.24655172413793103,
+      "n_samples": 50,
+      "mean_diameter": 0.94,
+      "mean_f_lcc": 0.7166666666666666,
+      "frac_fully_connected": 0.38,
+      "mean_n_branches": 2.92,
+      "mean_n_scs_strong": 3.86,
+      "frac_at_least_one_strong_scs": 0.78
+    },
+    {
+      "sigma": 0.2634482758620689,
+      "n_samples": 50,
+      "mean_diameter": 0.88,
+      "mean_f_lcc": 0.7369999999999999,
+      "frac_fully_connected": 0.44,
+      "mean_n_branches": 2.7,
+      "mean_n_scs_strong": 2.88,
+      "frac_at_least_one_strong_scs": 0.76
+    },
+    {
+      "sigma": 0.2803448275862069,
+      "n_samples": 50,
+      "mean_diameter": 1.06,
+      "mean_f_lcc": 0.8033809523809522,
+      "frac_fully_connected": 0.58,
+      "mean_n_branches": 2.88,
+      "mean_n_scs_strong": 3.88,
+      "frac_at_least_one_strong_scs": 0.96
+    },
+    {
+      "sigma": 0.29724137931034483,
+      "n_samples": 50,
+      "mean_diameter": 0.9,
+      "mean_f_lcc": 0.7493333333333332,
+      "frac_fully_connected": 0.46,
+      "mean_n_branches": 2.76,
+      "mean_n_scs_strong": 3.18,
+      "frac_at_least_one_strong_scs": 0.76
+    },
+    {
+      "sigma": 0.31413793103448273,
+      "n_samples": 50,
+      "mean_diameter": 1.1,
+      "mean_f_lcc": 0.8103333333333331,
+      "frac_fully_connected": 0.56,
+      "mean_n_branches": 2.82,
+      "mean_n_scs_strong": 3.8,
+      "frac_at_least_one_strong_scs": 0.9
+    },
+    {
+      "sigma": 0.3310344827586207,
+      "n_samples": 50,
+      "mean_diameter": 1.16,
+      "mean_f_lcc": 0.8186666666666667,
+      "frac_fully_connected": 0.6,
+      "mean_n_branches": 2.84,
+      "mean_n_scs_strong": 4.04,
+      "frac_at_least_one_strong_scs": 0.92
+    },
+    {
+      "sigma": 0.3479310344827586,
+      "n_samples": 50,
+      "mean_diameter": 1.0,
+      "mean_f_lcc": 0.8040000000000002,
+      "frac_fully_connected": 0.56,
+      "mean_n_branches": 2.72,
+      "mean_n_scs_strong": 3.8,
+      "frac_at_least_one_strong_scs": 0.9
+    },
+    {
+      "sigma": 0.36482758620689654,
+      "n_samples": 50,
+      "mean_diameter": 1.24,
+      "mean_f_lcc": 0.8483333333333333,
+      "frac_fully_connected": 0.64,
+      "mean_n_branches": 2.8,
+      "mean_n_scs_strong": 4.32,
+      "frac_at_least_one_strong_scs": 0.92
+    },
+    {
+      "sigma": 0.38172413793103444,
+      "n_samples": 50,
+      "mean_diameter": 1.16,
+      "mean_f_lcc": 0.8236666666666668,
+      "frac_fully_connected": 0.56,
+      "mean_n_branches": 2.76,
+      "mean_n_scs_strong": 4.0,
+      "frac_at_least_one_strong_scs": 0.88
+    },
+    {
+      "sigma": 0.3986206896551724,
+      "n_samples": 50,
+      "mean_diameter": 1.1,
+      "mean_f_lcc": 0.813,
+      "frac_fully_connected": 0.6,
+      "mean_n_branches": 2.74,
+      "mean_n_scs_strong": 3.66,
+      "frac_at_least_one_strong_scs": 0.86
+    },
+    {
+      "sigma": 0.41551724137931034,
+      "n_samples": 50,
+      "mean_diameter": 1.26,
+      "mean_f_lcc": 0.8666666666666666,
+      "frac_fully_connected": 0.66,
+      "mean_n_branches": 2.78,
+      "mean_n_scs_strong": 4.5,
+      "frac_at_least_one_strong_scs": 0.98
+    },
+    {
+      "sigma": 0.43241379310344824,
+      "n_samples": 50,
+      "mean_diameter": 1.18,
+      "mean_f_lcc": 0.8496666666666666,
+      "frac_fully_connected": 0.64,
+      "mean_n_branches": 2.76,
+      "mean_n_scs_strong": 4.2,
+      "frac_at_least_one_strong_scs": 0.96
+    },
+    {
+      "sigma": 0.4493103448275862,
+      "n_samples": 50,
+      "mean_diameter": 1.1,
+      "mean_f_lcc": 0.7633333333333333,
+      "frac_fully_connected": 0.44,
+      "mean_n_branches": 2.94,
+      "mean_n_scs_strong": 3.08,
+      "frac_at_least_one_strong_scs": 0.88
+    },
+    {
+      "sigma": 0.4662068965517241,
+      "n_samples": 50,
+      "mean_diameter": 1.02,
+      "mean_f_lcc": 0.7513333333333333,
+      "frac_fully_connected": 0.48,
+      "mean_n_branches": 3.0,
+      "mean_n_scs_strong": 3.34,
+      "frac_at_least_one_strong_scs": 0.9
+    },
+    {
+      "sigma": 0.48310344827586205,
+      "n_samples": 50,
+      "mean_diameter": 1.0,
+      "mean_f_lcc": 0.8073333333333333,
+      "frac_fully_connected": 0.6,
+      "mean_n_branches": 2.72,
+      "mean_n_scs_strong": 3.4,
+      "frac_at_least_one_strong_scs": 0.88
+    },
+    {
+      "sigma": 0.5,
+      "n_samples": 50,
+      "mean_diameter": 1.12,
+      "mean_f_lcc": 0.7966666666666667,
+      "frac_fully_connected": 0.54,
+      "mean_n_branches": 2.88,
+      "mean_n_scs_strong": 3.8,
+      "frac_at_least_one_strong_scs": 0.92
+    }
+  ]
+}
